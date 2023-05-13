@@ -56,6 +56,10 @@ df.isnull().sum()
 
 ![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/ab1dc60b-66f5-498b-afef-33094358cff4)
 
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/c2f1b8c8-cd4b-4e93-89d6-7e14507d9b92)
+
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/88d7dd08-f6c3-49e4-98d5-5101a4e9cd53)
+
 ![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/55bff0f8-d91f-4cf7-88f0-d9d28c315bbc)
 
 ![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/231e8f82-1b13-4008-932e-c169d3c3e5d7)
