@@ -52,16 +52,27 @@ df.isnull().sum()
 
 ![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/3d128b07-e738-42fb-bb49-8b530e1dd0d8)
 
-![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/7f5a47e6-efec-40a2-93b1-c974e40e1f1a)
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/f8983b03-706d-441c-b082-ff3bdf296a8d)
 
-![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/ab1dc60b-66f5-498b-afef-33094358cff4)
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/8f488e87-ffa7-4f89-a69f-5cf2486b53f9)
 
-![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/c2f1b8c8-cd4b-4e93-89d6-7e14507d9b92)
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/4ef7aa09-5833-4be5-bab5-28ccd03b7586)
 
-![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/88d7dd08-f6c3-49e4-98d5-5101a4e9cd53)
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/cc062881-12d3-4d7b-b552-f57a4e0d88e5)
 
-![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/55bff0f8-d91f-4cf7-88f0-d9d28c315bbc)
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/859fa08f-0917-4612-a917-fb75ae1e83c5)
 
-![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/231e8f82-1b13-4008-932e-c169d3c3e5d7)
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/57cd693c-4784-4fc9-8a03-9a36105b148b)
+
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/b6f2dfec-729c-4025-9b51-a9bd1f9d31ae)
+
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/66dba270-bd83-4ddb-9a4d-72ee0644952b)
+
+![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/80d2c392-3159-4db4-92a3-ab3dc1922d21)
+
+
+
+
+
 
 
