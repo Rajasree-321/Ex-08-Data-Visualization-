@@ -70,8 +70,8 @@ df.isnull().sum()
 
 ![image](https://github.com/Rajasree-321/Ex-08-Data-Visualization-/assets/96918911/80d2c392-3159-4db4-92a3-ab3dc1922d21)
 
-
-
+# RESULT 
+ Thus the Data Visualization for the given dataset had been executed successfully.
 
 
 
